@@ -7,7 +7,7 @@
 Name:		texlive-collection-langlatin
 Epoch:		1
 Version:	20120224
-Release:	8
+Release:	9
 Summary:	Latin
 Group:		Publishing
 URL:		http://tug.org/texlive
